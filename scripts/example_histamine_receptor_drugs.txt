@@ -1,0 +1,5 @@
+smiles,id
+[H][C@]12C[C@@H](C(=O)N(CCCN(C)C)C(=O)NCC)CN(CC=C)[C@]1([H])Cc3c[nH]c4cccc2c34,Cabergoline
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,Chlorpromazine
+Fc1ccc(cc1)Cn2c5ccccc5nc2NC4CCN(CCc3ccc(OC)cc3)CC4,Astemiszole
+Brc1ccc(cc1)C(c2ncccc2)CCN(C)C,Brompheniramine

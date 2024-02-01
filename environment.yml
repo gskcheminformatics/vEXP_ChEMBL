@@ -1,0 +1,21 @@
+name: vexp_chembl_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib-base=3.5.1
+  - numpy=1.21.5
+  - pandas=1.4.2
+  - pip=21.2.4
+  - psutil=5.9.0
+  - python=3.8.13
+  - rdkit=2022.03.1
+  - scipy=1.6.2
+  - xgboost=1.7.6
+  - joblib=1.1.0
+  - jupyter_client=6.1.12
+  - jupyter_core=4.9.2
+  - jupyter_server=1.13
+  - jupyterlab=3.3.2
+  - jupyterlab_server=2.10.3
+  - scikit-learn=1.0.2

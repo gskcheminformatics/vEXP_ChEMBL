@@ -1,0 +1,3 @@
+smiles,id
+[H][C@]12C[C@@H](C(=O)N(CCCN(C)C)C(=O)NCC)CN(CC=C)[C@]1([H])Cc3c[nH]c4cccc2c34,Cabergoline
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,Chlorpromazine
