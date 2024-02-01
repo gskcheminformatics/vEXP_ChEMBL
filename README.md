@@ -1,6 +1,6 @@
 # vEXP: A virtual enhanced cross screen panel for off-target pharmacology alerts
 
-James A. Lumley, David Fallon, Ryan Whatling
+James A. Lumley, David Fallon, Ryan Whatling 
 _Paper submitted for publication_
 
 This repository contains the publically available ChEMBL datasets along with RDKit + sklearn notebooks and scripts to reproduce the vEXP ChEMBL models.
@@ -11,9 +11,9 @@ This repository contains the publically available ChEMBL datasets along with RDK
 In order to install the conda environment you need to follow the instructions below:
 
 1) Have a valid installation of anaconda or miniconda
-2) git clone https://github.com/vEXP_ChEMBL/
+2) git clone https://github.com/gskcheminformatics/vEXP_ChEMBL.git
 3) cd Chembl_vEXP_Models
-4) When you are in the parent directory and your module of conda is activated use the following command line
+4) When you are in the parent directory and your conda module is activated use the following command line
 
 ```bash
 conda env create -f environment.yml
