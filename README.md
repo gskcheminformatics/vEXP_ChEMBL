@@ -3,7 +3,7 @@
 James A. Lumley, David Fallon, Ryan Whatling 
 _Paper submitted for publication_
 
-This repository contains the publically available ChEMBL datasets along with RDKit + sklearn notebooks and scripts to reproduce the vEXP ChEMBL models.
+This repository contains the publically available ChEMBL datasets along with RDKit + sklearn notebooks and scripts to reproduce the vEXP ChEMBL models.  A summary of the models with their dataset statistics and model performance metrics is found in the [models folder README file](./models/README.md).
 
 
 ## Installation
