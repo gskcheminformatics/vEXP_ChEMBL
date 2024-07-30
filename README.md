@@ -1,7 +1,9 @@
 # vEXP: A virtual enhanced cross screen panel for off-target pharmacology alerts
 
-James A. Lumley, David Fallon, Ryan Whatling 
-_Paper submitted for publication_
+* James A. Lumley, David Fallon, Ryan Whatling, Damien Coupry, Andrew Brown
+* _Computational Toxicology, Volume 31, 2024, 100324, ISSN 2468-1113_
+* [https://doi.org/10.1016/j.comtox.2024.100324.](https://doi.org/10.1016/j.comtox.2024.100324)
+
 
 This repository contains the publically available ChEMBL datasets along with RDKit + sklearn notebooks and scripts to reproduce the vEXP ChEMBL models.  A summary of the models with their dataset statistics and model performance metrics is found in the [models folder README file](./models/README.md).
 
